@@ -1,0 +1,1 @@
+In order to run the test, you have to go to the feature file to be tested and press the play icon.

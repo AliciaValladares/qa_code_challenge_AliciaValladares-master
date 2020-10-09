@@ -1,0 +1,24 @@
+######## Project Configurations #######
+
+ApplicationUrl=  https://pro.packlink.es/registro
+BrowserName   =  Chrome
+
+
+######## User Registration  #######
+UserEmail     =  qacandidatealicia1@packlink.es
+UserPassword  =  testing
+UserPhone     = 666000011
+
+######## User Login Details  #######
+UserLoginEmail     =  qacandidatealicia@packlink.es
+UserLoginPassword  =  testing
+
+######## Order Details  #######
+OriginCity      = Madrid
+DestinationCity = Madrid
+Weight          = 1
+Length          = 10
+Width           = 10
+Height          = 10
+
+

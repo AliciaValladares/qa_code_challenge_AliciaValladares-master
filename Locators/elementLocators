@@ -1,0 +1,31 @@
+####### Login Page Locators ######
+login_button   = //a[@class='btn btn--primary btn--medium btn--outlined']
+login_email    = //*[@id="email"]
+login_password = //*[@id="password"]
+login_button   = //*[@type='submit']
+
+###### Registration Page Locators #######
+register_email              = //*[@id="email"]
+register_password           = //*[@id="password"]
+register_amountOrders       = //*[@data-id="shipments"]
+register_ordersSold         = //*[@data-id="ecommerce"]
+register_mainShop           = //*[@data-id="marketplace"]
+register_telephone          = //*[@id="phone"]
+register_termsAgreement     = //*[@class="field__label"]/input[@name="terms"]
+register_marketingAut       = //*[@class="field__label"]/input[@name="marketing"]
+register_signUpButton       = //*[@type='submit']
+
+###### Dashboard Page Locators #######
+dashboard_newOrderButton    = //*[@type='button']/span
+
+###### Search Page Locators #######
+search_originCity           = //*[@id='ckg26uxyp00083i61xi5j7smh']
+search_destinationCIty      = //*[@id='ckg26uxy500063i615ohzrcrt']
+search_weight               = //*[@id='weight-0']
+search_length               = //*[@id='length-0']
+search_width                = //*[@id='width-0']
+search_height               = //*[@id='height-0']
+search_getPricesButton      = //*[@class='eb-create-shipment__submit']/button
+search_saveButton           = //*[@class='btn btn--primary btn--small btn--contained']/span
+
+
